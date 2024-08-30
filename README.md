@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Jean @JeanLee-AI
+- 👋 Hi, I’m Jean, PhD, a Researcher and Data Scientist at the Sydney Informatics Hub, a core research facility of the University of Sydney. 
 - 👀 I’m interested in NLP, AI applications, and AI/ML/DS education materials.
-- 🌱 I’m currently learning Deep Learning NLP as a Ph.D candidate at the Univeristy of Sydney. 
-- 💞️ My website for research is https://jeanlee-ai.github.io/
+- 🌱 My research work can be found at https://jeanlee-ai.github.io/ 
 - 📫 How to reach me ... email to jean.lee@sydney.edu.au 
