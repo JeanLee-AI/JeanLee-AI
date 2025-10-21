@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jean, PhD, a Researcher and Data Scientist at the Sydney Informatics Hub, a core research facility of the University of Sydney. 
-- 👀 I’m interested in NLP, AI applications, and AI/ML/DS education materials.
+- 👋 Hi, I’m Jean, PhD, an Associate Lecturer at the School of Computing and Information Systems (CIS) of the University of Melbourne. 
+- 👀 I’m also an NLP/AI researcher, focusing on AI in Education, Large Language Models, Multimodal Learning, and AI applications.
 - 🌱 My research work can be found at https://jeanlee-ai.github.io/ 
-- 📫 How to reach me ... email to jean.lee@sydney.edu.au 
+- 📫 How to reach me ... email to jeanlee@unimelb.edu.au or jean.lee@sydney.edu.au
